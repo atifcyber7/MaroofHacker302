@@ -18,4 +18,4 @@
 
 ## cd MaroofHacker302
 
-python2 Maroof.py
+## python2 Maroof.py
