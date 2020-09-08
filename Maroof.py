@@ -215,7 +215,7 @@ def menu():
 	print logo
 	print "   \033[1;36;40m      ╔═════════════════════════════════╗"
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] NAME"" SUDAIS KHAN MR AK REAL ║"                               
-	print "   \033[1;36;40m      ║\033[1;34;40m[*] ID  ║"FUCK SYSTEM
+	print "   \033[1;36;40m      ║\033[1;34;40m[*] ID  ║"
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs BRAIN CENTER║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
