@@ -14,7 +14,7 @@
 
 ## pip2 install requests
 
-## git clone https://github.com/MrAtifjan/MaroofHacker302.git
+## https://github.com/Braincenter24/MaroofHacker302.git
 
 ## cd MaroofHacker302
 
